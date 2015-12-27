@@ -1,0 +1,12 @@
+{
+  "generator-backbone": {
+    "appPath": "app",
+    "appName": "BankAccountTest",
+    "testFramework": "mocha",
+    "templateFramework": "handlebars",
+    "sassBootstrap": false,
+    "coffee": false,
+    "includeRequireJS": true
+  },
+  "generator-mocha": {}
+}
