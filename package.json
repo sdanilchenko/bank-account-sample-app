@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "description": "Test task Account management. Backbone, Handlebars, jQuery, RequireJS, lodash",
+  "scripts": {
+    "prestart": "npm install & bower install",
+    "start": "http-server ./app/ -a localhost -p 8000 -c-1 -o"
+  },
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
